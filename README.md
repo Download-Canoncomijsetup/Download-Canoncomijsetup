@@ -1,6 +1,6 @@
 #   Canon.com/ijsetup
 
-[![anon.com/ijsetup](getstaredd.png)](http://canoncom.ijsetup.s3-website-us-west-1.amazonaws.com)
+[![anon.com/ijsetup](lets-get-started.png)](http://canoncom.ijsetup.s3-website-us-west-1.amazonaws.com)
 
 Canon printers have advanced features such as it can scan documents and one can easily send faxes. Visit [canon.com/ijsetup](https://github.com/Download-Canoncomijsetup/) and enter model number and download the setup for printing, scanning and copying documents easily with canon printer driver. It can be connected wirelessly with your mac or windows device.
 
